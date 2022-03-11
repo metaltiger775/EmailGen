@@ -28,6 +28,11 @@ sudo pip3 install -r requirements.txt
 sudo python3 EmailGen.py
 ```
 
+## Tested on
+
+- Google Cloud Shell
+- Kali Linux
+
 ## TODO
 
 - [x] Obfuscated the code
