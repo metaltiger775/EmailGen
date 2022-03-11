@@ -28,6 +28,12 @@ sudo pip3 install -r requirements.txt
 sudo python3 EmailGen.py
 ```
 
+## TODO
+
+- [x] Obfuscated the code
+- [ ] More email templates
+- [ ] Add a mailing script
+
 ## Author
 
 👤 **metaltiger775**
