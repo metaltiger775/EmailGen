@@ -14,6 +14,7 @@
 
 ```sh
 git clone https://github.com/metaltiger775/EmailGen
+cd EmailGen
 ```
 
 ## Install Dependencies
