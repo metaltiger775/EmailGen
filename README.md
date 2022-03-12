@@ -37,7 +37,8 @@ sudo python3 EmailGen.py
 ## TODO
 
 - [x] Obfuscated the code
-- [ ] More email templates
+- [x] Email viewer on port 8080
+- [ ] Add more email templates
 - [ ] Add a mailing script
 
 ## Author
