@@ -13,7 +13,7 @@
 ## Install Repo
 
 ```sh
-git clone https://github.com/metaltiger775/EmailGen
+git clone https://github.com/metaltiger775/EmailGen.git
 cd EmailGen
 ```
 
