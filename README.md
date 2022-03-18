@@ -39,16 +39,16 @@ sudo python3 EmailGen.py
 - [x] Obfuscated the code
 - [x] Email viewer on port 8080
 - [ ] Add more email templates
-- [x]   Google
-- [x]   Instagram
-- [ ]   Facebook
-- [ ]   Github
-- [ ]   Twitch
-- [ ]   TikTok
-- [ ]   Twitter
-- [ ]   Pinterest
-- [ ]   Spotify
-- [ ]   More? Send suggestions pls
+  - [x]   Google
+  - [x]   Instagram
+  - [ ]   Facebook
+  - [ ]   Github
+  - [ ]   Twitch
+  - [ ]   TikTok
+  - [ ]   Twitter
+  - [ ]   Pinterest
+  - [ ]   Spotify
+  - [ ]   More? Send suggestions pls
 - [ ] Add a mailing script
 
 ## Author
