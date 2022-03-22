@@ -40,7 +40,7 @@ sudo python3 EmailGen.py
 - [x] Email viewer on port 8080
 - [ ] Add more email templates
   - [x]   Google
-  - [x]   Instagram
+  - [ ]   Instagram
   - [ ]   Facebook
   - [ ]   Github
   - [ ]   Twitch
